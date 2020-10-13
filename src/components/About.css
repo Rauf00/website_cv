@@ -1,0 +1,25 @@
+.aboutText {
+	margin-top: 10rem;
+	padding-top: 0%;
+	padding-left: 5%;
+}
+
+.aboutImage {
+	margin-top: 2rem;
+}
+
+h1 {
+	font-size: 4vw;
+	color: #094067;
+}
+
+p {
+	font-size: 150%;
+	color:#5f6c7b;
+}
+
+.btn {
+	background-color: #3da9fc;
+	border: none;
+}
+
