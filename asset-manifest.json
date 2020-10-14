@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/website_cv/static/css/main.c499fefa.chunk.css",
-    "main.js": "/website_cv/static/js/main.e98b4bba.chunk.js",
-    "main.js.map": "/website_cv/static/js/main.e98b4bba.chunk.js.map",
+    "main.css": "/website_cv/static/css/main.f2326fa7.chunk.css",
+    "main.js": "/website_cv/static/js/main.31032d4d.chunk.js",
+    "main.js.map": "/website_cv/static/js/main.31032d4d.chunk.js.map",
     "runtime-main.js": "/website_cv/static/js/runtime-main.c24b223d.js",
     "runtime-main.js.map": "/website_cv/static/js/runtime-main.c24b223d.js.map",
-    "static/js/2.2e605047.chunk.js": "/website_cv/static/js/2.2e605047.chunk.js",
-    "static/js/2.2e605047.chunk.js.map": "/website_cv/static/js/2.2e605047.chunk.js.map",
+    "static/js/2.fe92b122.chunk.js": "/website_cv/static/js/2.fe92b122.chunk.js",
+    "static/js/2.fe92b122.chunk.js.map": "/website_cv/static/js/2.fe92b122.chunk.js.map",
     "index.html": "/website_cv/index.html",
-    "precache-manifest.667a8699e93ec9c3ca544eb9e45433ce.js": "/website_cv/precache-manifest.667a8699e93ec9c3ca544eb9e45433ce.js",
+    "precache-manifest.c7e3b5fea0cff1a032c962425c81d5aa.js": "/website_cv/precache-manifest.c7e3b5fea0cff1a032c962425c81d5aa.js",
     "service-worker.js": "/website_cv/service-worker.js",
-    "static/css/main.c499fefa.chunk.css.map": "/website_cv/static/css/main.c499fefa.chunk.css.map",
-    "static/js/2.2e605047.chunk.js.LICENSE.txt": "/website_cv/static/js/2.2e605047.chunk.js.LICENSE.txt",
+    "static/css/main.f2326fa7.chunk.css.map": "/website_cv/static/css/main.f2326fa7.chunk.css.map",
+    "static/js/2.fe92b122.chunk.js.LICENSE.txt": "/website_cv/static/js/2.fe92b122.chunk.js.LICENSE.txt",
     "static/media/about.png": "/website_cv/static/media/about.957537e2.png",
-    "static/media/logo.png": "/website_cv/static/media/logo.6b069939.png"
+    "static/media/coming-soon.png": "/website_cv/static/media/coming-soon.7db97312.png",
+    "static/media/logo.png": "/website_cv/static/media/logo.6b069939.png",
+    "static/media/mazeGame.png": "/website_cv/static/media/mazeGame.deab5a2c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c24b223d.js",
-    "static/js/2.2e605047.chunk.js",
-    "static/css/main.c499fefa.chunk.css",
-    "static/js/main.e98b4bba.chunk.js"
+    "static/js/2.fe92b122.chunk.js",
+    "static/css/main.f2326fa7.chunk.css",
+    "static/js/main.31032d4d.chunk.js"
   ]
 }
