@@ -26,25 +26,9 @@ const Navbar = () => {
 				      <li className="nav-item">
 				        <NavLink linkName="Education"/>
 				      </li>
-				      <li className="nav-item dropdown">
-        				<a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          					<Link className="nav-link" 
-						        to="Projects" 
-						        spy={true} 
-						        smooth={true} 
-						        duration={500} 
-						        className='Projects' 
-						        activeClass='active'
-	      					>
-	       						Projects
-	      					</Link>
-        				</a>
-				        <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-				          <a className="dropdown-item" href="#">Project 1</a>
-				          <a className="dropdown-item" href="#">Project 2</a>
-				          <a className="dropdown-item" href="#">Project 3</a>
-				        </div>
-      				  </li>
+				      <li className="nav-item">
+        				<NavLink linkName="Projects"/>
+        			  </li>
 				    </ul>
 			  </div>
 			  <div >

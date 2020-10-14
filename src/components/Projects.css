@@ -1,4 +1,29 @@
-.projectsBody{
-	margin: 0;
+.projectsDiv {
+
 }
 
+.projectsHeader{
+	margin-top: 5%;
+	margin-left: 2%;
+}
+
+.card-deck {
+	margin: 1% 1% 1% 1%;
+}
+
+.card {
+	background-color: #094067;
+}
+
+.card-title {
+	color:#fffffe;
+}
+
+.card-text {
+	color:#d8eefe;
+}
+
+.linkToProject {
+
+	background-color: #3da9fc;
+}

@@ -8,10 +8,12 @@
 
 .skillName {
 	text-align: center;
+	font-size: 2vw;
 	margin-bottom: 5%;
 }
 
 .skillsHeader {
+	margin-top: 5%;
 	margin-left: 2%;
 }
 

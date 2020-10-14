@@ -5,7 +5,6 @@ import SkillBar from './SkillBar';
 const Skills = () => {
 	return (
 		<div className="conateiner-fluid background-blue">
-			<br /><br />
 			<div className="row">
 				<div className="col">
 					<h1 className="skillsHeader"> Skills</h1>
