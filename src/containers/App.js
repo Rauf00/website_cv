@@ -21,12 +21,13 @@ class App extends Component {
         <Element name="Skills" className="element" >
             <Skills />
         </Element>
-        <Element name="Projects" className="element" >
-            <Projects />
-        </Element>
         <Element name="Education" className="element" >
             <Education />
         </Element>
+        <Element name="Projects" className="element" >
+            <Projects />
+        </Element>
+        
       </div>
     );
   }

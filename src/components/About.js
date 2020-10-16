@@ -3,12 +3,12 @@ import './About.css'
 import aboutImage from '../images/about.png'
 const About = () => {
 	return (
-		<div className="container-fluid">
+		<div className="container-fluid aboutDiv">
 			<div className="row">
 				<div className="col">
 
 					<img src={aboutImage} alt="about" width="100%" height="100%" className="img-fluid float-left aboutImage" />
-					<br /><hr />
+					<br />
 				</div>
 				<div className="aboutText col">
 					<h1>Hello, my name is Rauf!</h1>

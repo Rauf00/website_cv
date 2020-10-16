@@ -31,7 +31,7 @@ const Navbar = () => {
         			  </li>
 				    </ul>
 			  </div>
-			  <div >
+			  <div> 
 			  	<div className="row">
   					<div className="col-3"><a href="#" className="fa fa-linkedin"></a></div>
 				  	<div className="col-3"><a href="#" className="fa fa-github"></a></div>

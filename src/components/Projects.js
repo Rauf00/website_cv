@@ -4,7 +4,7 @@ import mazeGame from '../images/mazeGame.png'
 import comingSoon from '../images/coming-soon.png'
 const Projects = () => {
 	return (
-		<div className="conateiner-fluid ">
+		<div className="conateiner-fluid background-blue">
 			<div className="row">
 				<div className="col">
 					<h1 className="projectsHeader"> Projects </h1>
